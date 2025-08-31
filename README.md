@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="C:\Users\eleaz\Desktop\NuevaCarpeta\thumb-1920-929202.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="C:\Users\eleaz\Desktop\NuevaCarpeta\thumb-1920-929202.jpg">
+ <img alt="YOUR-ALT-TEXT" src="C:\Users\eleaz\Desktop\NuevaCarpeta\thumb-1920-929202.jpg">
+</picture>
 <!--
 **EleazarPardo/EleazarPardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
