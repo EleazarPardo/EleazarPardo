@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0ead0c3c-ce95-48bf-827e-1c18c7840c65">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0ead0c3c-ce95-48bf-827e-1c18c7840c65">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/0ead0c3c-ce95-48bf-827e-1c18c7840c65">
+</picture>
 <!--
 **EleazarPardo/EleazarPardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
